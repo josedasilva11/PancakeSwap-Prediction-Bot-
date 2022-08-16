@@ -1,3 +1,4 @@
+UPDATE1: 8 BNB/USDT Sold /// 3 CAKE/USDT Sold
 
 #### I've been running a bot for PancakeSwap Prediction BNB/USD game for the past few months. 
 Tons of dollars have been made. Now I've found another binary trading platform with static payouts (can go a lot higher than some BNB on bet placement without getting lower payouts) and where I can enter whenever my signals agree to without having to wait for rounds to start/end.
